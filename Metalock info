@@ -18,6 +18,10 @@ Toggle extra weapon mode
 
 Switch weapons, you cant switch and use all weapons tho, Lets say ur in 2v2, your teammate has Direct shot, your enemies has Wild Card and Pka. You can switch between direct shot, wild card and pka. However i blacklisted some weapons such as reflex, powershot, web, Ninja, Planet Hotline, Snake (Sorry snake users i made this script for myself and i dont use snake 🙏) Since they all are trash.
 
+# B BUTTON
+
+Throw the ball wait a little then press B, the script will get the ball like chigiri. instant teleport to the ball when ball touches the ground with loki anims and particles
+
 # Action Buttons
 
 1 / 2 / 3 / 4 / 5 are action buttons, when extra weapon mode is on you can use moves by those action buttons
@@ -49,20 +53,10 @@ You still have the cooldowns... However there are some moves that have 0 cooldow
 
 **Using the script** : When using my script you must have inf yield and keybinds im aboutta say or else some functions wont work
 
-YOU NEED INF YIELD!!!
-
-# KEYBINDS :
-
-- X BUTTON --->> anim 16465022204
-- T BUTTON --->> anim 15473989668
-- G BUTTON --->> loopws 70
-- H BUTTON --->> unloopws
-
-Also use it with teleport tool its even op and fun with it
-
 # QUICK REVIEW OF WHAT BUTTONS DOES
 
 - X BUTTON --->> FULL FIELD SHOT
+- B BUTTON --->> Loki Catch
 - T BUTTON --->> STEAL BALL
 - G BUTTON --->> LOKI RUN
 - H BUTTON --->> STOP LOKI RUN
